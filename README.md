@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark-jardine
-- 👀 I’m interested in machine learning, AI
-- 🌱 I’m currently learning machine learning 
+- 👀 I’m interested in ML, AI research
+- 🌱 I’m currently learning about ML
 - 📫 markjardine27@gmail.com
 
 <!---
