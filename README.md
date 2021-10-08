@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark-jardine
-- 👀 I’m interested in ML, AI research
-- 🌱 I’m currently learning about ML
+- 👀 I’m interested in ML, programming and most things related to technology
+- 🌱 I’m currently in the second year of my BSc Comp Sci degree 
 - 📫 markjardine27@gmail.com
 
 <!---
